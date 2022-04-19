@@ -9,12 +9,12 @@
   ],
   "creatorBuild" : "34335",
   "files" : {
-    "\/Assignment_03\/WMGD-330-master\/examples\/w-03-01\/deploy\/assets\/images\/turtle.jpeg" : {
+    "\/Assignment_03\/w-03-02-html-structure\/deploy\/assets\/images\/turtle.jpeg" : {
       "ft" : 16384,
       "iS" : 2005698,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/Assignment_03\/WMGD-330-master\/examples\/w-03-01\/deploy\/assets\/images\/turtle.jpg",
+      "oAP" : "\/Assignment_03\/w-03-02-html-structure\/deploy\/assets\/images\/turtle.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -22,7 +22,7 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/Assignment_03\/WMGD-330-master\/examples\/w-03-01\/deploy\/assets\/styles\/main.css" : {
+    "\/Assignment_03\/w-03-02-html-structure\/deploy\/assets\/styles\/main.css" : {
       "aP" : 1,
       "bl" : 0,
       "ci" : 0,
@@ -30,32 +30,19 @@
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/Assignment_03\/WMGD-330-master\/examples\/w-03-01\/deploy\/assets\/styles\/main-min.css",
+      "oAP" : "\/Assignment_03\/w-03-02-html-structure\/deploy\/assets\/styles\/main-min.css",
       "oF" : 0,
       "pg" : 0
     },
-    "\/Assignment_03\/WMGD-330-master\/examples\/w-03-01\/deploy\/index.html" : {
+    "\/Assignment_03\/w-03-02-html-structure\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/Assignment_03\/WMGD-330-master\/examples\/w-03-01\/deploy\/index.html",
+      "oAP" : "\/Assignment_03\/w-03-02-html-structure\/deploy\/index.html",
       "oF" : 0
     },
-    "\/Assignment_03\/WMGD-330-master\/examples\/w-03-01\/dev\/assets\/images\/turtle.jpeg" : {
-      "ft" : 16384,
-      "iS" : 2005698,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Assignment_03\/WMGD-330-master\/examples\/w-03-01\/dev\/assets\/images\/turtle.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Assignment_03\/WMGD-330-master\/examples\/w-03-01\/dev\/assets\/styles\/main.css" : {
+    "\/Assignment_03\/w-03-02-html-structure\/dev\/assets\/styles\/main.css" : {
       "aP" : 1,
       "bl" : 0,
       "ci" : 0,
@@ -63,69 +50,16 @@
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/Assignment_03\/WMGD-330-master\/examples\/w-03-01\/dev\/assets\/styles\/main-min.css",
+      "oAP" : "\/Assignment_03\/w-03-02-html-structure\/dev\/assets\/styles\/main-min.css",
       "oF" : 0,
       "pg" : 0
     },
-    "\/Assignment_03\/WMGD-330-master\/examples\/w-03-01\/dev\/index.kit" : {
+    "\/Assignment_03\/w-03-02-html-structure\/dev\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/Assignment_03\/WMGD-330-master\/examples\/w-03-01\/dev\/index.html",
-      "oF" : 0
-    },
-    "\/Assignment_03\/WMGD-330-master\/examples\/w-03-02-html-structure\/deploy\/assets\/images\/turtle.jpeg" : {
-      "ft" : 16384,
-      "iS" : 2005698,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Assignment_03\/WMGD-330-master\/examples\/w-03-02-html-structure\/deploy\/assets\/images\/turtle.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Assignment_03\/WMGD-330-master\/examples\/w-03-02-html-structure\/deploy\/assets\/styles\/main.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/Assignment_03\/WMGD-330-master\/examples\/w-03-02-html-structure\/deploy\/assets\/styles\/main-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
-    "\/Assignment_03\/WMGD-330-master\/examples\/w-03-02-html-structure\/deploy\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/Assignment_03\/WMGD-330-master\/examples\/w-03-02-html-structure\/deploy\/index.html",
-      "oF" : 0
-    },
-    "\/Assignment_03\/WMGD-330-master\/examples\/w-03-02-html-structure\/dev\/assets\/styles\/main.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/Assignment_03\/WMGD-330-master\/examples\/w-03-02-html-structure\/dev\/assets\/styles\/main-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
-    "\/Assignment_03\/WMGD-330-master\/examples\/w-03-02-html-structure\/dev\/index.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/Assignment_03\/WMGD-330-master\/examples\/w-03-02-html-structure\/dev\/index.html",
+      "oAP" : "\/Assignment_03\/w-03-02-html-structure\/dev\/index.html",
       "oF" : 0
     },
     "\/build\/.gitignore" : {
