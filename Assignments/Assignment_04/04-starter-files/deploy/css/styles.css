@@ -359,6 +359,27 @@ h1 {
 }
 
 .header-logo {
-  color: red;
-  font-size: 32px;
+  color: blue;
+  font-size: 16px;
+}
+@media (min-width: 576px) {
+  .header-logo {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+  }
+}
+@media (min-width: 768px) {
+  .header-logo {
+    color: green;
+    font-size: 28px;
+    text-align: left;
+  }
+}
+@media (min-width: 992px) {
+  .header-logo {
+    color: orange;
+    font-size: 32px;
+    text-align: center;
+  }
 }

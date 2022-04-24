@@ -1,4 +1,20 @@
 .header-logo {
-    color: red;
-    font-size: 32px;
+    color: blue;
+    font-size: 16px;
+    
+    @include sm {
+        color: black;
+        font-size: 20px;
+        text-align: center; 
+    }
+    @include md {
+        color: green;
+        font-size: 28px;
+        text-align: left; 
+    }
+    @include lg {
+        color: orange;
+        font-size: 32px;
+        text-align: center; 
+    }
 }
