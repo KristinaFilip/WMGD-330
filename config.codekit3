@@ -244,28 +244,12 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/Assignments\/Assignment_04\/04-starter-files\/dev\/author.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/Assignments\/Assignment_04\/04-starter-files\/dev\/author.html",
-      "oF" : 0
-    },
     "\/Assignments\/Assignment_04\/04-starter-files\/dev\/author.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/Assignments\/Assignment_04\/04-starter-files\/dev\/author.html",
-      "oF" : 0
-    },
-    "\/Assignments\/Assignment_04\/04-starter-files\/dev\/footer.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/Assignments\/Assignment_04\/04-starter-files\/dev\/footer.html",
       "oF" : 0
     },
     "\/Assignments\/Assignment_04\/04-starter-files\/dev\/footer.kit" : {
@@ -284,21 +268,13 @@
       "oAP" : "\/Assignments\/Assignment_04\/04-starter-files\/dev\/header.html",
       "oF" : 0
     },
-    "\/Assignments\/Assignment_04\/04-starter-files\/dev\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/Assignments\/Assignment_04\/04-starter-files\/dev\/index.html",
-      "oF" : 0
-    },
     "\/Assignments\/Assignment_04\/04-starter-files\/dev\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/Assignments\/Assignment_04\/04-starter-files\/dev\/index.html",
-      "oF" : 0
+      "oAP" : "\/Assignments\/Assignment_04\/04-starter-files\/deploy\/index.html",
+      "oF" : 2
     },
     "\/Assignments\/Assignment_04\/04-starter-files\/dev\/js\/scripts.js" : {
       "bF" : 0,
@@ -310,14 +286,6 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
-    },
-    "\/Assignments\/Assignment_04\/04-starter-files\/dev\/main-content.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/Assignments\/Assignment_04\/04-starter-files\/dev\/main-content.html",
-      "oF" : 0
     },
     "\/Assignments\/Assignment_04\/04-starter-files\/dev\/main-content.kit" : {
       "cB" : 0,

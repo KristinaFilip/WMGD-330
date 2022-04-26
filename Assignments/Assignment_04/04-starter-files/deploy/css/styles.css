@@ -373,22 +373,18 @@ h1 {
 }
 @media (min-width: 576px) {
   .header {
-    color: green;
-    font-size: 28px;
-    text-align: left;
+    color: #1B263B;
   }
 }
 @media (min-width: 768px) {
   .header {
-    color: green;
-    font-size: 28px;
-    text-align: left;
+    color: #D5D5D5;
+    text-align: right;
   }
 }
 @media (min-width: 992px) {
   .header {
-    color: orange;
-    font-size: 32px;
+    font-size: 40px;
     text-align: center;
   }
 }
@@ -401,6 +397,23 @@ h1 {
   padding-bottom: 50px;
   grid-column: span 1;
 }
+@media (min-width: 576px) {
+  .main-content-sidebar {
+    font-size: 12px;
+  }
+}
+@media (min-width: 768px) {
+  .main-content-sidebar {
+    text-align: center;
+  }
+}
+@media (min-width: 992px) {
+  .main-content-sidebar {
+    background-color: #4a9b73;
+    color: #274335;
+    font-size: 40px;
+  }
+}
 
 .main-content-body {
   background-color: #7799A5;
@@ -409,6 +422,22 @@ h1 {
   padding-top: 50px;
   padding-bottom: 50px;
   grid-column: span 2;
+}
+@media (min-width: 576px) {
+  .main-content-body {
+    font-size: 10px;
+  }
+}
+@media (min-width: 768px) {
+  .main-content-body {
+    background-color: #D5D5D5;
+  }
+}
+@media (min-width: 992px) {
+  .main-content-body {
+    font-size: 32px;
+    text-align: left;
+  }
 }
 
 .main-content-ads {
@@ -419,6 +448,22 @@ h1 {
   padding-bottom: 50px;
   grid-column: span 1;
 }
+@media (min-width: 576px) {
+  .main-content-ads {
+    background-color: purple;
+  }
+}
+@media (min-width: 768px) {
+  .main-content-ads {
+    color: #803841;
+  }
+}
+@media (min-width: 992px) {
+  .main-content-ads {
+    background-color: #000000;
+    font-size: 24px;
+  }
+}
 
 .footer {
   background-color: #803841;
@@ -428,12 +473,44 @@ h1 {
   padding-bottom: 50px;
   grid-column: span 4;
 }
+@media (min-width: 576px) {
+  .footer {
+    color: #1B263B;
+  }
+}
+@media (min-width: 768px) {
+  .footer {
+    font-size: 48px;
+  }
+}
+@media (min-width: 992px) {
+  .footer {
+    color: #F71735;
+  }
+}
 
 .author {
-  background-color: #803841;
+  background-color: #49154e;
   color: #FFFFFF;
   text-align: center;
   padding-top: 50px;
   padding-bottom: 50px;
   grid-column: span 3;
+}
+@media (min-width: 576px) {
+  .author {
+    color: #7a507d;
+    text-align: left;
+  }
+}
+@media (min-width: 768px) {
+  .author {
+    color: #FFFFFF;
+  }
+}
+@media (min-width: 992px) {
+  .author {
+    font-size: 30px;
+    color: #7a507d;
+  }
 }

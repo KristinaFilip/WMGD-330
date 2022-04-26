@@ -5,4 +5,15 @@
     padding-top: 50px;
     padding-bottom: 50px;
     grid-column: span 3;
+    @include sm {
+        color: $light-purple;
+        text-align: left;
+    }
+    @include md {
+        color: $white;
+    }
+    @include lg {
+        font-size: 30px;
+        color: $light-purple;
+    }
 }
