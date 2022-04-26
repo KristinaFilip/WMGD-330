@@ -1,20 +1,23 @@
-.header-logo {
-    color: blue;
-    font-size: 16px;
-    
+.header {
+    background-color: $blue; 
+    color: $white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    grid-column: span 4;
     @include sm {
-        color: black;
-        font-size: 20px;
-        text-align: center; 
+        color: green;
+        font-size: 28px;
+        text-align: left;
     }
     @include md {
         color: green;
         font-size: 28px;
-        text-align: left; 
+        text-align: left;
     }
     @include lg {
         color: orange;
         font-size: 32px;
-        text-align: center; 
+        text-align: center;
     }
 }
