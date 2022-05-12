@@ -315,50 +315,13 @@ template {
   margin: 0 auto;
   max-width: 1200px; }
 
-.section {
-  margin-top: 50px; }
+/* =============
+    Typography
+============= */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px; }
 
-.box {
-  padding: 50px;
-  display: inline-block;
-  color: white;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border: 1px solid black;
-  display: inline-block; }
-
-.box-md {
-  padding: 100px;
-  display: inline-block;
-  color: white;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border: 1px solid black;
-  display: inline-block; }
-
-.box-lg {
-  padding: 150px;
-  display: inline-block;
-  color: white;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border: 1px solid black;
-  display: inline-block; }
-
-.bg-blue {
-  background-color: #006494; }
-
-.bg-dark-blue {
-  background-color: #1B263B; }
-
-.bg-grey {
-  background-color: #7799A5; }
-
-.bg-red-dark {
-  background-color: #803841; }
-
-.bg-purple {
-  background-color: #803841; }
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0; }

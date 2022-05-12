@@ -1,0 +1,50 @@
+.section {
+	margin-top: 50px;
+}
+.box {
+	padding: 50px;
+	display: inline-block;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border: 1px solid black;
+	display: inline-block;
+}
+
+.box-md {
+	padding: 100px;
+	display: inline-block;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border: 1px solid black;
+	display: inline-block;
+}
+.box-lg {
+	padding: 150px;
+	display: inline-block;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border: 1px solid black;
+	display: inline-block;
+}
+
+.bg-blue {
+	background-color: $blue;
+}
+.bg-dark-blue {
+	background-color: $dark-blue;
+}
+.bg-grey {
+	background-color: $grey;
+}
+.bg-red-dark {
+	background-color: $red-dark;
+}
+.bg-purple {
+	background-color: $purple;
+}

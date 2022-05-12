@@ -40,30 +40,6 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/dev\/align-self.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/align-self.html",
-      "oF" : 0
-    },
-    "\/dev\/flex-direction.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/flex-direction.html",
-      "oF" : 0
-    },
-    "\/dev\/flex-wrap.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/flex-wrap.html",
-      "oF" : 0
-    },
     "\/dev\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -71,14 +47,6 @@
       "oA" : 0,
       "oAP" : "\/deploy\/index.html",
       "oF" : 2
-    },
-    "\/dev\/intro.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/intro.html",
-      "oF" : 0
     },
     "\/dev\/js\/scripts.js" : {
       "bF" : 0,
@@ -90,30 +58,6 @@
       "oF" : 2,
       "sC" : 3,
       "tS" : 0
-    },
-    "\/dev\/justify-content.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/justify-content.html",
-      "oF" : 0
-    },
-    "\/dev\/order.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/order.html",
-      "oF" : 0
-    },
-    "\/dev\/order.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/order.html",
-      "oF" : 0
     },
     "\/dev\/scss\/base\/_base.scss" : {
       "aP" : 0,
@@ -170,21 +114,6 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_buttons.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
-    "\/dev\/scss\/components\/_flexbox-example.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_flexbox-example.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -324,6 +253,22 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
+    },
+    "\/dev\/section-1.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/section-1.html",
+      "oF" : 0
+    },
+    "\/dev\/section-2.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/section-2.html",
+      "oF" : 0
     }
   },
   "hooks" : [
@@ -334,7 +279,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 607448965.33801401,
-    "displayValue" : "w-06-02-flexbox",
+    "displayValue" : "final",
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "brackets-forest",
     "iconImageWasSetByUser" : 0
