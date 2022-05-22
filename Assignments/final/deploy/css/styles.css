@@ -325,3 +325,24 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
   padding: 0; }
+
+.header {
+  background: #333333;
+  padding: 8px;
+  display: flex;
+  justify-content: start;
+  align-items: center; }
+
+.header .header__search {
+  padding: 0px 0px 0px 225px; }
+
+.header .header__hamburger {
+  padding: 0px 0px 0px 16px; }
+
+.header .header__link {
+  color: #EBEBEB;
+  text-decoration: none;
+  margin-left: 16px; }
+  @media screen and (max-width: 834px) {
+    .header .header__link {
+      display: none; } }

@@ -1,0 +1,24 @@
+.header {
+    background: $charcoal-gray;
+    padding: 8px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.header .header__search {
+    padding: 0px 0px 0px 225px;
+}
+
+.header .header__hamburger {
+    padding: 0px 0px 0px 16px;
+}
+
+.header .header__link {
+    color: $cloud-gray;
+    text-decoration: none;
+    margin-left: 16px;
+    @media screen and (max-width: 834px) {
+        display: none;
+    }
+}
