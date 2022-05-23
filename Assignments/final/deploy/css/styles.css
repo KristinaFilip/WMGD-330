@@ -397,3 +397,46 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: auto;
   padding: 72px 16px 48px 16px; }
+
+.main-content {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center; }
+
+.main-content .main__heading {
+  font-weight: 700;
+  color: #2E2885;
+  font-size: 36px;
+  line-height: 40px;
+  margin: 0px 16px 36px 16px; }
+
+.main-content .main__post {
+  display: inline-block;
+  width: 208px;
+  height: 40px;
+  border-radius: 40px;
+  padding: 12px 0px 0px 0px;
+  background: #5012B5;
+  font-weight: 600;
+  font-size: 14px;
+  color: #FFFFFF;
+  text-decoration: none; }
+  @media screen and (min-width: 834px) {
+    .main-content .main__post {
+      width: 588px;
+      height: 88px;
+      padding: 36px 0px 0px 0px;
+      font-size: 20px; } }
+  @media screen and (min-width: 1280px) {
+    .main-content .main__post {
+      width: 826px;
+      height: 102px;
+      padding: 38px 0px 0px 0px;
+      font-size: 24px; } }
+  @media screen and (min-width: 1440px) {
+    .main-content .main__post {
+      width: 931px;
+      height: 102px;
+      padding: 38px 0px 0px 0px;
+      font-size: 24px; } }

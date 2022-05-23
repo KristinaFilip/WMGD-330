@@ -454,6 +454,14 @@
       "oAP" : "\/dev\/components\/hero.html",
       "oF" : 0
     },
+    "\/dev\/components\/main-content.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/main-content.html",
+      "oF" : 0
+    },
     "\/dev\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
