@@ -31,7 +31,7 @@
     },
     "\/deploy\/img\/homepage\/lightmode\/avatar.png" : {
       "ft" : 32768,
-      "iS" : 1301,
+      "iS" : 1412,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/homepage\/lightmode\/avatar.png",
       "oF" : 0,
@@ -42,24 +42,24 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/homepage\/lightmode\/hamburger.jpg" : {
-      "ft" : 16384,
-      "iS" : 915,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/homepage\/lightmode\/hamburger.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/deploy\/img\/homepage\/lightmode\/hamburger.png" : {
       "ft" : 32768,
       "iS" : 292,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/homepage\/lightmode\/hamburger.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/homepage\/lightmode\/hero-img.png" : {
+      "ft" : 32768,
+      "iS" : 112565,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/homepage\/lightmode\/hero-img.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -94,12 +94,25 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/homepage\/lightmode\/line.jpg" : {
+    "\/deploy\/img\/homepage\/lightmode\/line1.jpg" : {
       "ft" : 16384,
       "iS" : 669,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/homepage\/lightmode\/line.jpg",
+      "oAP" : "\/deploy\/img\/homepage\/lightmode\/line1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/homepage\/lightmode\/line2.jpg" : {
+      "ft" : 16384,
+      "iS" : 669,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/homepage\/lightmode\/line2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -174,7 +187,7 @@
     },
     "\/deploy\/img\/homepage\/lightmode\/search.png" : {
       "ft" : 32768,
-      "iS" : 836,
+      "iS" : 972,
       "oA" : 0,
       "oAP" : "\/deploy\/img\/homepage\/lightmode\/search.png",
       "oF" : 0,
@@ -431,6 +444,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/header.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/hero.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/hero.html",
       "oF" : 0
     },
     "\/dev\/index.kit" : {
