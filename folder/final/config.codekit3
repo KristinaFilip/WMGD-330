@@ -243,12 +243,12 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/design\/About\/About Desktop DM.jpg" : {
+    "\/design\/about\/About Desktop DM.jpg" : {
       "ft" : 16384,
       "iS" : 1382419,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/design\/About\/About Desktop DM.jpg",
+      "oAP" : "\/design\/about\/About Desktop DM.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -256,12 +256,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/design\/About\/About Desktop High-fi.jpg" : {
+    "\/design\/about\/About Desktop High-fi.jpg" : {
       "ft" : 16384,
       "iS" : 1415236,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/design\/About\/About Desktop High-fi.jpg",
+      "oAP" : "\/design\/about\/About Desktop High-fi.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -269,12 +269,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/design\/About\/About iMac DM.jpg" : {
+    "\/design\/about\/About iMac DM.jpg" : {
       "ft" : 16384,
       "iS" : 1357012,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/design\/About\/About iMac DM.jpg",
+      "oAP" : "\/design\/about\/About iMac DM.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -282,12 +282,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/design\/About\/About iMac High-fi.jpg" : {
+    "\/design\/about\/About iMac High-fi.jpg" : {
       "ft" : 16384,
       "iS" : 1394096,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/design\/About\/About iMac High-fi.jpg",
+      "oAP" : "\/design\/about\/About iMac High-fi.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -295,12 +295,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/design\/About\/About Mobile DM.jpg" : {
+    "\/design\/about\/About Mobile DM.jpg" : {
       "ft" : 16384,
       "iS" : 1159285,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/design\/About\/About Mobile DM.jpg",
+      "oAP" : "\/design\/about\/About Mobile DM.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -308,12 +308,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/design\/About\/About Mobile High-fi.jpg" : {
+    "\/design\/about\/About Mobile High-fi.jpg" : {
       "ft" : 16384,
       "iS" : 1195917,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/design\/About\/About Mobile High-fi.jpg",
+      "oAP" : "\/design\/about\/About Mobile High-fi.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -321,12 +321,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/design\/About\/About Tablet DM.jpg" : {
+    "\/design\/about\/About Tablet DM.jpg" : {
       "ft" : 16384,
       "iS" : 1248814,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/design\/About\/About Tablet DM.jpg",
+      "oAP" : "\/design\/about\/About Tablet DM.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -334,12 +334,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/design\/About\/About Tablet High-fi.jpg" : {
+    "\/design\/about\/About Tablet High-fi.jpg" : {
       "ft" : 16384,
       "iS" : 1285764,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/design\/About\/About Tablet High-fi.jpg",
+      "oAP" : "\/design\/about\/About Tablet High-fi.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -347,12 +347,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/design\/Homepage\/High-fi Home Desktop.jpg" : {
+    "\/design\/homepage\/High-fi Home Desktop.jpg" : {
       "ft" : 16384,
       "iS" : 3698579,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/design\/Homepage\/High-fi Home Desktop.jpg",
+      "oAP" : "\/design\/homepage\/High-fi Home Desktop.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -360,12 +360,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/design\/Homepage\/High-fi Home IMac.jpg" : {
+    "\/design\/homepage\/High-fi Home IMac.jpg" : {
       "ft" : 16384,
       "iS" : 3268604,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/design\/Homepage\/High-fi Home IMac.jpg",
+      "oAP" : "\/design\/homepage\/High-fi Home IMac.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -373,12 +373,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/design\/Homepage\/High-fi Home Mobile.jpg" : {
+    "\/design\/homepage\/High-fi Home Mobile.jpg" : {
       "ft" : 16384,
       "iS" : 1509750,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/design\/Homepage\/High-fi Home Mobile.jpg",
+      "oAP" : "\/design\/homepage\/High-fi Home Mobile.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -386,12 +386,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/design\/Homepage\/High-fi Home Tablet.jpg" : {
+    "\/design\/homepage\/High-fi Home Tablet.jpg" : {
       "ft" : 16384,
       "iS" : 2983490,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/design\/Homepage\/High-fi Home Tablet.jpg",
+      "oAP" : "\/design\/homepage\/High-fi Home Tablet.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -399,12 +399,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/design\/Homepage\/Home Desktop DM.jpg" : {
+    "\/design\/homepage\/Home Desktop DM.jpg" : {
       "ft" : 16384,
       "iS" : 3466246,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/design\/Homepage\/Home Desktop DM.jpg",
+      "oAP" : "\/design\/homepage\/Home Desktop DM.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -412,12 +412,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/design\/Homepage\/Home IMac DM.jpg" : {
+    "\/design\/homepage\/Home IMac DM.jpg" : {
       "ft" : 16384,
       "iS" : 3068021,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/design\/Homepage\/Home IMac DM.jpg",
+      "oAP" : "\/design\/homepage\/Home IMac DM.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -425,12 +425,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/design\/Homepage\/Home Mobile DM.jpg" : {
+    "\/design\/homepage\/Home Mobile DM.jpg" : {
       "ft" : 16384,
       "iS" : 1439781,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/design\/Homepage\/Home Mobile DM.jpg",
+      "oAP" : "\/design\/homepage\/Home Mobile DM.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -438,12 +438,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/design\/Homepage\/Home Tablet DM.jpg" : {
+    "\/design\/homepage\/Home Tablet DM.jpg" : {
       "ft" : 16384,
       "iS" : 2850904,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/design\/Homepage\/Home Tablet DM.jpg",
+      "oAP" : "\/design\/homepage\/Home Tablet DM.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
