@@ -4,6 +4,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+
     @media screen and (min-width: 834px) {
         padding: 8px 32px 8px 32px;
     }
@@ -13,16 +14,17 @@
     @media screen and (min-width: 834px) {
         display: none;
     }
- }
+}
 
- .header .header__craigslist {
+.header .header__craigslist {
     color: $cloud-gray;
     font-size: 48px;
     font-weight: 400;
+
     @media screen and (max-width: 834px) {
         display: none;
     }
- }
+}
 
 .header .header__icons {
     margin-right: 16px;
@@ -36,53 +38,57 @@
     @media screen and (min-width: 1280px) {
         display: none;
     }
- }
+}
 
- .header .header__avatar-line {
+.header .header__avatar-line {
     display: flex;
     align-items: center;
     gap: 16px;
-    @media screen and (max-width: 834px) {
-    }
- }
 
- .header .header__avatar1 {
+    @media screen and (max-width: 834px) {}
+}
+
+.header .header__avatar1 {
     @media screen and (max-width: 834px) {
         display: none;
     }
+
     @media screen and (min-width: 1280px) {
         display: none;
     }
- }
+}
 
- .header .header__line1 {
+.header .header__line1 {
+    display: none;
+    @include lg {
+        display: block;
+    }
+}
+
+.header .header__avatar2 {
     @media screen and (max-width: 1280px) {
         display: none;
     }
- }
+}
 
- .header .header__avatar2 {
-    @media screen and (max-width: 1280px) {
+.header .header__line2 {
+    display: none;
+    @include lg {
+        display: block;
+    }
+}
+
+.header .header__hamburger {
+    @include lg {
         display: none;
     }
- }
-
- .header .header__line2 {
-    @media screen and (max-width: 1280px) {
-        display: none;
-    }
- }
-
- .header .header__hamburger {
-    @media screen and (min-width: 1280px) {
-        display: none;
-    }
- }
+}
 
 .header .header__link {
     color: $cloud-gray;
     text-decoration: none;
     margin-inline-end: 32px;
+
     @media screen and (max-width: 1280px) {
         display: none;
     }
