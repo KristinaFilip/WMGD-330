@@ -104,37 +104,33 @@ html {
 }
 
 @mixin sm-max {
-    @media (min-width: #{$screen-sm-max}) {
+    @media (max-width: #{$screen-sm-max}) {
         @content;
     }
 }
+
 //Usage
 // @include sm{
 //     grid-template-columns: 100%;
 // }
 
-@mixin sm {
-    @media (min-width: #{$screen-sm-min}) {
-        @content;
-    }
-}
-
 // Medium devices
-@mixin md {
+@mixin md-min {
     @media (min-width: #{$screen-md-min}) {
         @content;
     }
 }
+
+@mixin md-max {
+    @media (max-width: #{$screen-md-max}) {
+        @content;
+    }
+}
+
 //Usage
 // @include md{
 //     grid-template-columns: 20% 80%;
 // }
-
-@mixin md {
-    @media (max-width: #{$screen-md-min}) {
-        @content;
-    }
-}
 
 // Large devices
 @mixin lg {
@@ -147,25 +143,20 @@ html {
 //     grid-template-columns: repeat(3, 1fr);
 // }
 
-@mixin lg {
-    @media (max-width: #{$screen-lg-min}) {
-        @content;
-    }
-}
-
 // Extra large devices
-@mixin xl {
+@mixin xl-min {
     @media (min-width: #{$screen-xl-min}) {
         @content;
     }
 }
+
+@mixin xl-max {
+    @media (max-width: #{$screen-xl-max}) {
+        @content;
+    }
+}
+
 //Usage
 // @include xl{
 //     grid-template-columns: repeat(4, 1fr);
 // }
-
-@mixin xl {
-    @media (max-width: #{$screen-xl-min}) {
-        @content;
-    }
-}
