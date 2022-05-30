@@ -475,28 +475,28 @@
       "oAP" : "\/dev\/components\/hero.html",
       "oF" : 1
     },
-    "\/dev\/components\/section1.kit" : {
+    "\/dev\/components\/section1-home.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/components\/section1.html",
+      "oAP" : "\/dev\/components\/section1-home.html",
       "oF" : 0
     },
-    "\/dev\/components\/section2.kit" : {
+    "\/dev\/components\/section2-home.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/components\/section2.html",
+      "oAP" : "\/dev\/components\/section2-home.html",
       "oF" : 0
     },
-    "\/dev\/components\/section3.kit" : {
+    "\/dev\/components\/section3-home.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/components\/section3.html",
+      "oAP" : "\/dev\/components\/section3-home.html",
       "oF" : 0
     },
     "\/dev\/index.kit" : {
@@ -653,7 +653,7 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/dev\/scss\/components\/_section1.scss" : {
+    "\/dev\/scss\/components\/_section1-home.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -662,13 +662,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_section1.css",
+      "oAP" : "\/dev\/scss\/components\/_section1-home.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/dev\/scss\/components\/_section2.scss" : {
+    "\/dev\/scss\/components\/_section2-home.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -677,13 +677,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_section2.css",
+      "oAP" : "\/dev\/scss\/components\/_section2-home.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 1
     },
-    "\/dev\/scss\/components\/_section3.scss" : {
+    "\/dev\/scss\/components\/_section3-home.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -692,7 +692,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/components\/_section3.css",
+      "oAP" : "\/dev\/scss\/components\/_section3-home.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,

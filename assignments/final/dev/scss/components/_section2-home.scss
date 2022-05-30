@@ -1,0 +1,293 @@
+.section2-home .section2-home__heading {
+    font-weight: 700;
+    line-height: 40px;
+    text-align: center;
+    color: $eggplant;
+    margin-bottom: 48px;
+
+    @include lg-min {
+        text-align: left;
+        margin-left: 121px;
+    }
+
+    @include xl-min {
+        margin-left: 135px;
+    }
+}
+
+.section2-home .section2-home__buttons {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 24px 8px;
+    flex-wrap: wrap;
+    padding: 0px 16px 0px 16px;
+
+    @include md-min {
+        padding: 0px 118px 0px 118px;
+    }
+
+    @include lg-min {
+        padding: 0px 121px 0px 121px;
+    }
+
+    @include xl-min {
+        padding: 0px 135px 0px 135px
+    }
+}
+
+.section2-home .section2-home__community {
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 111px;
+    height: 48px;
+    border-radius: 40px;
+    background: $purple-tulip;
+    font-weight: 600;
+    font-size: 14px;
+    color: $white;
+    text-decoration: none;
+
+    @include md-min {
+        width: 189px;
+        height: 88px;
+        font-size: 20px;
+    }
+
+    @include lg-min {
+        width: 194px;
+        height: 102px;
+        font-size: 24px;
+    }
+
+    @include lg-min {
+        width: 222px;
+        height: 102px;
+    }
+}
+
+.section2-home .section2-home__job {
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 111px;
+    height: 48px;
+    border-radius: 40px;
+    background: $purple-tulip;
+    font-weight: 600;
+    font-size: 14px;
+    color: $white;
+    text-decoration: none;
+
+    @include md-min {
+        width: 189px;
+        height: 88px;
+        font-size: 20px;
+    }
+
+    @include lg-min {
+        width: 194px;
+        height: 102px;
+        font-size: 24px;
+    }
+
+    @include lg-min {
+        width: 222px;
+        height: 102px;
+    }
+}
+
+.section2-home .section2-home__services {
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 111px;
+    height: 48px;
+    border-radius: 40px;
+    background: $purple-tulip;
+    font-weight: 600;
+    font-size: 14px;
+    color: $white;
+    text-decoration: none;
+
+    @include md-min {
+        width: 189px;
+        height: 88px;
+        font-size: 20px;
+    }
+
+    @include lg-min {
+        width: 194px;
+        height: 102px;
+        font-size: 24px;
+    }
+
+    @include lg-min {
+        width: 222px;
+        height: 102px;
+    }
+}
+
+.section2-home .section2-home__forums {
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 230px;
+    height: 48px;
+    border-radius: 40px;
+    background: $purple-tulip;
+    font-weight: 600;
+    font-size: 14px;
+    color: $white;
+    text-decoration: none;
+
+    @include md-min {
+        width: 393px;
+        height: 88px;
+        font-size: 20px;
+    }
+
+    @include lg-min {
+        width: 406px;
+        height: 102px;
+        font-size: 24px;
+    }
+
+    @include lg-min {
+        width: 458px;
+        height: 102px;
+    }
+}
+
+.section2-home .section2-home__sale {
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 111px;
+    height: 48px;
+    border-radius: 40px;
+    background: $purple-tulip;
+    font-weight: 600;
+    font-size: 14px;
+    color: $white;
+    text-decoration: none;
+
+    @include md-min {
+        width: 189px;
+        height: 88px;
+        font-size: 20px;
+    }
+
+    @include lg-min {
+        width: 194px;
+        height: 102px;
+        font-size: 24px;
+    }
+
+    @include lg-min {
+        width: 222px;
+        height: 102px;
+    }
+}
+
+.section2-home .section2-home__gigs {
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 111px;
+    height: 48px;
+    border-radius: 40px;
+    background: $purple-tulip;
+    font-weight: 600;
+    font-size: 14px;
+    color: $white;
+    text-decoration: none;
+
+    @include md-min {
+        width: 189px;
+        height: 88px;
+        font-size: 20px;
+    }
+
+    @include lg-min {
+        width: 194px;
+        height: 102px;
+        font-size: 24px;
+    }
+
+    @include lg-min {
+        width: 222px;
+        height: 102px;
+    }
+}
+
+.section2-home .section2-home__resumes {
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 111px;
+    height: 48px;
+    border-radius: 40px;
+    background: $purple-tulip;
+    font-weight: 600;
+    font-size: 14px;
+    color: $white;
+    text-decoration: none;
+
+    @include md-min {
+        width: 189px;
+        height: 88px;
+        font-size: 20px;
+    }
+
+    @include lg-min {
+        width: 194px;
+        height: 102px;
+        font-size: 24px;
+    }
+
+    @include lg-min {
+        width: 222px;
+        height: 102px;
+    }
+}
+
+.section2-home .section2-home__housings {
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 111px;
+    height: 48px;
+    border-radius: 40px;
+    background: $purple-tulip;
+    font-weight: 600;
+    font-size: 14px;
+    color: $white;
+    text-decoration: none;
+
+    @include md-min {
+        width: 189px;
+        height: 88px;
+        font-size: 20px;
+    }
+
+    @include lg-min {
+        width: 194px;
+        height: 102px;
+        font-size: 24px;
+    }
+
+    @include lg-min {
+        width: 222px;
+        height: 102px;
+    }
+}

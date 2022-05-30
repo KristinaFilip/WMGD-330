@@ -1,4 +1,4 @@
-.section1 {
+.section1-home {
     display: flex;
     justify-content: center;
     text-align: center;
@@ -6,7 +6,7 @@
     flex-direction: column;
 }
 
-.section1 .section1__heading {
+.section1-home .section1-home__heading {
     font-weight: 700;
     color: $eggplant;
     font-size: 36px;
@@ -14,7 +14,7 @@
     margin: 0px 16px 36px 16px;
 }
 
-.section1 .section1__post {
+.section1-home .section1-home__post {
     display: inline-block;
     width: 208px;
     height: 40px;
@@ -48,23 +48,24 @@
     }
 }
 
-.section1 .section1__group2 {
+.section1-home .section1-home__group2 {
     padding-top: 72px;
     display: flex;
     flex-direction: column;
+
     @include lg-min {
         flex-direction: row;
         display: none
     }
 }
 
-.section1 .section1__heading2 {
+.section1-home .section1-home__heading2 {
     color: $eggplant;
     font-size: 24px;
     line-height: 32px;
 }
 
-.section1 .section1__map {
+.section1-home .section1-home__map {
     width: 100%;
     height: auto;
     padding: 48px 16px 48px 16px;
@@ -74,7 +75,7 @@
     }
 }
 
-.section1 .section1__body {
+.section1-home .section1-home__body {
     color: $eggplant;
     font-size: 14px;
     line-height: 24px;
@@ -87,7 +88,7 @@
     }
 }
 
-.section1 .section1__group3 {
+.section1-home .section1-home__group3 {
     padding-top: 72px;
     display: flex;
     flex-direction: row;
@@ -95,26 +96,31 @@
     align-items: center;
 
     @include lg-max {
-        display: none
+        display: none;
+    }
+
+    @include lg-min {
+        padding: 72px 135px 72px 135px;
     }
 }
 
-.section1 .section1__heading3 {
+.section1-home .section1-home__heading3 {
     color: $eggplant;
     font-size: 24px;
     line-height: 32px;
 }
 
-.section1 .section1__map2 {
+.section1-home .section1-home__map2 {
     width: 511px;
     height: 731px;
+
     @include xl-min {
         width: 576px;
         height: 824px;
     }
 }
 
-.section1 .section1__body2 {
+.section1-home .section1-home__body2 {
     color: $eggplant;
     font-size: 14px;
     line-height: 24px;
