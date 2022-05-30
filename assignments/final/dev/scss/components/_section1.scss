@@ -1,0 +1,124 @@
+.section1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.section1 .section1__heading {
+    font-weight: 700;
+    color: $eggplant;
+    font-size: 36px;
+    line-height: 40px;
+    margin: 0px 16px 36px 16px;
+}
+
+.section1 .section1__post {
+    display: inline-block;
+    width: 208px;
+    height: 40px;
+    border-radius: 40px;
+    padding: 12px 0px 0px 0px;
+    background: $purple-tulip;
+    font-weight: 600;
+    font-size: 14px;
+    color: $white;
+    text-decoration: none;
+
+    @media screen and (min-width: 834px) {
+        width: 588px;
+        height: 88px;
+        padding: 36px 0px 0px 0px;
+        font-size: 20px;
+    }
+
+    @media screen and (min-width: 1280px) {
+        width: 826px;
+        height: 102px;
+        padding: 38px 0px 0px 0px;
+        font-size: 24px;
+    }
+
+    @media screen and (min-width: 1440px) {
+        width: 931px;
+        height: 102px;
+        padding: 38px 0px 0px 0px;
+        font-size: 24px;
+    }
+}
+
+.section1 .section1__group2 {
+    padding-top: 72px;
+    display: flex;
+    flex-direction: column;
+    @include lg-min {
+        flex-direction: row;
+        display: none
+    }
+}
+
+.section1 .section1__heading2 {
+    color: $eggplant;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.section1 .section1__map {
+    width: 100%;
+    height: auto;
+    padding: 48px 16px 48px 16px;
+
+    @include md-min {
+        padding: 48px 118px 48px 118px;
+    }
+}
+
+.section1 .section1__body {
+    color: $eggplant;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    text-align: left;
+    margin: 48px 16px 72px 16px;
+
+    @include md-min {
+        margin: 48px 118px 72px 118px;
+    }
+}
+
+.section1 .section1__group3 {
+    padding-top: 72px;
+    display: flex;
+    flex-direction: row;
+    padding: 72px 121px 72px 121px;
+    align-items: center;
+
+    @include lg-max {
+        display: none
+    }
+}
+
+.section1 .section1__heading3 {
+    color: $eggplant;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.section1 .section1__map2 {
+    width: 511px;
+    height: 731px;
+    @include xl-min {
+        width: 576px;
+        height: 824px;
+    }
+}
+
+.section1 .section1__body2 {
+    color: $eggplant;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    text-align: right;
+    margin: 48px 0px 0px 16px;
+}

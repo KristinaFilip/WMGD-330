@@ -14,11 +14,12 @@
     font-weight: 400;
 }
 
-.footer .footer__all{
+.footer .footer__all {
     display: flex;
     column-gap: 90px;
     align-items: center;
-    @media screen and (min-width: 834px) {
+
+    @include md-min {
         column-gap: 32px;
     }
 }
@@ -28,7 +29,8 @@
     flex-direction: column;
     align-items: center;
     row-gap: 4px;
-    @media screen and (min-width: 834px) {
+
+    @include md-min {
         flex-direction: row;
         gap: 32px;
     }
@@ -39,7 +41,8 @@
     flex-direction: column;
     align-items: center;
     row-gap: 4px;
-    @media screen and (min-width: 834px) {
+
+    @include md-min {
         flex-direction: row;
         gap: 32px;
     }

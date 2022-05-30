@@ -338,7 +338,8 @@ h1, h2, h3, h4, h5, h6 {
 .header .header__left {
   display: inline-flex;
   gap: 80px;
-  align-items: center; }
+  align-items: center;
+  padding-right: 80px; }
 
 .header .header__searchbar {
   display: flex;
@@ -348,16 +349,21 @@ h1, h2, h3, h4, h5, h6 {
   border: 2px solid #EBEBEB;
   border-radius: 4px;
   justify-content: space-between;
-  flex-shrink: 0; }
-
-.header .header__typehere {
+  flex-grow: 1; }
+  @media (max-width: 1200px) {
+    .header .header__searchbar {
+      display: none; } }
+.header .header__searchfield {
+  display: flex;
+  width: 100%;
   color: #A6B1E1;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
   background: transparent;
   border: transparent;
-  padding: 8px 0px 8px 16px; }
+  padding: 8px 130px 8px 16px;
+  flex-grow: 1; }
 
 .header .header__searchbutton {
   border-left: 2px solid #EBEBEB;
@@ -440,20 +446,21 @@ h1, h2, h3, h4, h5, h6 {
   height: auto;
   padding: 72px 16px 48px 16px; }
 
-.main-content {
+.section1 {
   display: flex;
   justify-content: center;
   text-align: center;
-  align-items: center; }
+  align-items: center;
+  flex-direction: column; }
 
-.main-content .main__heading {
+.section1 .section1__heading {
   font-weight: 700;
   color: #2E2885;
   font-size: 36px;
   line-height: 40px;
   margin: 0px 16px 36px 16px; }
 
-.main-content .main__post {
+.section1 .section1__post {
   display: inline-block;
   width: 208px;
   height: 40px;
@@ -465,23 +472,82 @@ h1, h2, h3, h4, h5, h6 {
   color: #FFFFFF;
   text-decoration: none; }
   @media screen and (min-width: 834px) {
-    .main-content .main__post {
+    .section1 .section1__post {
       width: 588px;
       height: 88px;
       padding: 36px 0px 0px 0px;
       font-size: 20px; } }
   @media screen and (min-width: 1280px) {
-    .main-content .main__post {
+    .section1 .section1__post {
       width: 826px;
       height: 102px;
       padding: 38px 0px 0px 0px;
       font-size: 24px; } }
   @media screen and (min-width: 1440px) {
-    .main-content .main__post {
+    .section1 .section1__post {
       width: 931px;
       height: 102px;
       padding: 38px 0px 0px 0px;
       font-size: 24px; } }
+.section1 .section1__group2 {
+  padding-top: 72px;
+  display: flex;
+  flex-direction: column; }
+  @media (min-width: 992px) {
+    .section1 .section1__group2 {
+      flex-direction: row;
+      display: none; } }
+.section1 .section1__heading2 {
+  color: #2E2885;
+  font-size: 24px;
+  line-height: 32px; }
+
+.section1 .section1__map {
+  width: 100%;
+  height: auto;
+  padding: 48px 16px 48px 16px; }
+  @media (min-width: 768px) {
+    .section1 .section1__map {
+      padding: 48px 118px 48px 118px; } }
+.section1 .section1__body {
+  color: #2E2885;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  text-align: left;
+  margin: 48px 16px 72px 16px; }
+  @media (min-width: 768px) {
+    .section1 .section1__body {
+      margin: 48px 118px 72px 118px; } }
+.section1 .section1__group3 {
+  padding-top: 72px;
+  display: flex;
+  flex-direction: row;
+  padding: 72px 121px 72px 121px;
+  align-items: center; }
+  @media (max-width: 992px) {
+    .section1 .section1__group3 {
+      display: none; } }
+.section1 .section1__heading3 {
+  color: #2E2885;
+  font-size: 24px;
+  line-height: 32px; }
+
+.section1 .section1__map2 {
+  width: 511px;
+  height: 731px; }
+  @media (min-width: 1200px) {
+    .section1 .section1__map2 {
+      width: 576px;
+      height: 824px; } }
+.section1 .section1__body2 {
+  color: #2E2885;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  text-align: right;
+  margin: 48px 0px 0px 16px; }
+
 .footer {
   background-color: #333333;
   height: 116px;
@@ -500,7 +566,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   column-gap: 90px;
   align-items: center; }
-  @media screen and (min-width: 834px) {
+  @media (min-width: 768px) {
     .footer .footer__all {
       column-gap: 32px; } }
 .footer .footer__1 {
@@ -508,7 +574,7 @@ h1, h2, h3, h4, h5, h6 {
   flex-direction: column;
   align-items: center;
   row-gap: 4px; }
-  @media screen and (min-width: 834px) {
+  @media (min-width: 768px) {
     .footer .footer__1 {
       flex-direction: row;
       gap: 32px; } }
@@ -517,7 +583,7 @@ h1, h2, h3, h4, h5, h6 {
   flex-direction: column;
   align-items: center;
   row-gap: 4px; }
-  @media screen and (min-width: 834px) {
+  @media (min-width: 768px) {
     .footer .footer__2 {
       flex-direction: row;
       gap: 32px; } }

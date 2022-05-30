@@ -133,11 +133,18 @@ html {
 // }
 
 // Large devices
-@mixin lg {
+@mixin lg-min {
     @media (min-width: #{$screen-lg-min}) {
         @content;
     }
 }
+
+@mixin lg-max {
+    @media (max-width: #{$screen-lg-max}) {
+        @content;
+    }
+}
+
 //Usage
 // @include lg{
 //     grid-template-columns: repeat(3, 1fr);
