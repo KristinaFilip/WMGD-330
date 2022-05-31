@@ -42,6 +42,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/img\/homepage\/lightmode\/calendar.png" : {
+      "ft" : 32768,
+      "iS" : 21039,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/homepage\/lightmode\/calendar.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/img\/homepage\/lightmode\/hamburger.png" : {
       "ft" : 32768,
       "iS" : 292,
@@ -499,6 +512,38 @@
       "oAP" : "\/dev\/components\/section3-home.html",
       "oF" : 0
     },
+    "\/dev\/components\/section4-home.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/section4-home.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/section5-home.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/section5-home.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/section6-home.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/section6-home.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/section7-home.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/section7-home.html",
+      "oF" : 0
+    },
     "\/dev\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -693,6 +738,66 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_section3-home.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_section4-home.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_section4-home.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_section5-home.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_section5-home.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_section6-home.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_section6-home.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_section7-home.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_section7-home.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,

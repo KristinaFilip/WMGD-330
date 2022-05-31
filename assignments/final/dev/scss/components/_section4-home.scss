@@ -1,0 +1,132 @@
+.section4-home {
+    display: flex;
+    flex-direction: column;
+    margin: 48px 16px 48px 16px;
+
+    @include md-min {
+        margin: 48px 118px 48px 118px;
+    }
+
+    @include lg-min {
+        margin: 48px 55px 48px 55px;
+    }
+
+    @include xl-min {
+        margin: 48px 135px 48px 135px;
+    }
+}
+
+.section4-home .section4-home__heading {
+    font-weight: 700;
+    line-height: 40px;
+    text-align: center;
+    color: $eggplant;
+    margin: 0px 32px 48px 32px;
+
+    @include lg-min {
+        text-align: left;
+        margin-left: 0px;
+    }
+}
+
+.section4-home .section4-home__date {
+    width: 100%;
+    height: auto;
+    margin: 48px 0px 48px 0px;
+
+    @include lg-min {
+        margin: 0px
+    }
+}
+
+.section4-home .section4-home__group2 {
+    @include lg-min {
+        display: flex;
+        flex-direction: row-reverse;
+        column-gap: 16px;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+.section4-home .section4-home__eventbox {
+    display: block;
+    display: flex;
+    background-color: $light-lavendar;
+    border-radius: 18px;
+    color: $deep-iris;
+    font-size: 14px;
+    padding: 22px 8px 22px 8px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    column-gap: 32px;
+
+    @include md-min {
+        font-size: 18px;
+        line-height: 32px;
+    }
+
+    @include lg-min {
+        font-size: 14px;
+        line-height: 24px;
+        column-gap: 16px;
+        padding: 22px 35px 22px 35px;
+    }
+
+    @include xl-min {
+        font-size: 18px;
+        padding: 22px 35px 22px 35px;
+    }
+}
+
+.section4-home .section4-home__buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 32.5px;
+
+    @include lg-min {
+        gap: 56px;
+    }
+}
+
+.section4-home .section4-home__events {
+    display: flex;
+    flex-direction: column;
+    gap: 42.5px;
+
+    @include lg-min {
+        gap: 58px;
+    }
+
+    @include xl-min {
+        gap: 74px;
+    }
+}
+
+.section4-home .section4-home__cta {
+    display: block;
+    background-color: $punchy;
+    width: 144.44px;
+    height: 26.15px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: $white;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 600;
+    column-gap: 32.5px;
+
+    @include md-min {
+        width: 246.28px;
+        height: 42px;
+    }
+
+    @include lg-min {
+        width: 246.28px;
+        height: 42px;
+    }
+}

@@ -1,0 +1,355 @@
+.section5-home .section5-home__heading {
+    font-weight: 700;
+    line-height: 40px;
+    text-align: center;
+    color: $eggplant;
+    margin-bottom: 48px;
+
+    @include lg-min {
+        text-align: left;
+        margin-left: 121px;
+    }
+
+    @include xl-min {
+        margin-left: 135px;
+    }
+}
+
+.section5-home .section5-home__buttons {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 24px 8px;
+    flex-wrap: wrap;
+    padding: 0px 16px 0px 16px;
+
+    @include md-min {
+        padding: 0px 118px 0px 118px;
+    }
+
+    @include lg-min {
+        padding: 0px 121px 0px 121px;
+    }
+
+    @include xl-min {
+        padding: 0px 135px 0px 135px
+    }
+}
+
+.section5-home .section5-home__allentown {
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 111px;
+    height: 48px;
+    border-radius: 40px;
+    background: $purple-tulip;
+    font-weight: 600;
+    font-size: 14px;
+    color: $white;
+    text-decoration: none;
+
+    @include md-min {
+        width: 189px;
+        height: 88px;
+        font-size: 20px;
+    }
+
+    @include lg-min {
+        width: 195px;
+        height: 102px;
+        font-size: 24px;
+    }
+
+    @include xl-min {
+        width: 221px;
+        height: 102px;
+    }
+}
+
+.section5-home .section5-home__annapolis {
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 111px;
+    height: 48px;
+    border-radius: 40px;
+    background: $purple-tulip;
+    font-weight: 600;
+    font-size: 14px;
+    color: $white;
+    text-decoration: none;
+
+    @include md-min {
+        width: 189px;
+        height: 88px;
+        font-size: 20px;
+    }
+
+    @include lg-min {
+        width: 300px;
+        height: 102px;
+        font-size: 24px;
+    }
+
+    @include xl-min {
+        width: 340px;
+        height: 102px;
+    }
+}
+
+.section5-home .section5-home__baltimore {
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 111px;
+    height: 48px;
+    border-radius: 40px;
+    background: $purple-tulip;
+    font-weight: 600;
+    font-size: 14px;
+    color: $white;
+    text-decoration: none;
+
+    @include md-min {
+        width: 189px;
+        height: 88px;
+        font-size: 20px;
+    }
+
+    @include lg-min {
+        width: 300px;
+        height: 102px;
+        font-size: 24px;
+    }
+
+    @include xl-min {
+        width: 340px;
+        height: 102px;
+    }
+}
+
+.section5-home .section5-home__catskills {
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 172px;
+    height: 48px;
+    border-radius: 40px;
+    background: $purple-tulip;
+    font-weight: 600;
+    font-size: 14px;
+    color: $white;
+    text-decoration: none;
+
+    @include md-min {
+        width: 189px;
+        height: 88px;
+        font-size: 20px;
+    }
+
+    @include lg-min {
+        width: 195px;
+        height: 102px;
+        font-size: 24px;
+    }
+
+    @include xl-min {
+        width: 221px;
+        height: 102px;
+    }
+}
+
+.section5-home .section5-home__central {
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 172px;
+    height: 48px;
+    border-radius: 40px;
+    background: $purple-tulip;
+    font-weight: 600;
+    font-size: 14px;
+    color: $white;
+    text-decoration: none;
+
+    @include md-min {
+        width: 393px;
+        height: 88px;
+        font-size: 20px;
+    }
+
+    @include lg-min {
+        width: 300px;
+        height: 102px;
+        font-size: 24px;
+    }
+
+    @include xl-min {
+        width: 340px;
+        height: 102px;
+    }
+}
+
+.section5-home .section5-home__cumberland {
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 172px;
+    height: 48px;
+    border-radius: 40px;
+    background: $purple-tulip;
+    font-weight: 600;
+    font-size: 14px;
+    color: $white;
+    text-decoration: none;
+
+    @include md-min {
+        width: 393px;
+        height: 88px;
+        font-size: 20px;
+    }
+
+    @include lg-min {
+        width: 406px;
+        height: 102px;
+        font-size: 24px;
+    }
+
+    @include xl-min {
+        width: 458px;
+        height: 102px;
+    }
+}
+
+.section5-home .section5-home__delaware {
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 172px;
+    height: 48px;
+    border-radius: 40px;
+    background: $purple-tulip;
+    font-weight: 600;
+    font-size: 14px;
+    color: $white;
+    text-decoration: none;
+
+    @include md-min {
+        width: 189px;
+        height: 88px;
+        font-size: 20px;
+    }
+
+    @include lg-min {
+        width: 300px;
+        height: 102px;
+        font-size: 24px;
+    }
+
+    @include xl-min {
+        width: 340px;
+        height: 102px;
+    }
+}
+
+.section5-home .section5-home__eastern {
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 102px;
+    border-radius: 40px;
+    background: $purple-tulip;
+    font-weight: 600;
+    font-size: 24px;
+    color: $white;
+    text-decoration: none;
+
+    @include lg-max {
+        display: none;
+    }
+
+    @include xl-min {
+        width: 340px;
+        height: 102px;
+    }
+}
+
+.section5-home .section5-home__virginia {
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 406px;
+    height: 102px;
+    border-radius: 40px;
+    background: $purple-tulip;
+    font-weight: 600;
+    font-size: 24px;
+    color: $white;
+    text-decoration: none;
+
+    @include lg-max {
+        display: none;
+    }
+
+    @include xl-min {
+        width: 458px;
+        height: 102px;
+    }
+}
+
+.section5-home .section5-home__fredrick {
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 102px;
+    border-radius: 40px;
+    background: $purple-tulip;
+    font-weight: 600;
+    font-size: 24px;
+    color: $white;
+    text-decoration: none;
+
+    @include lg-max {
+        display: none;
+    }
+
+    @include xl-min {
+        width: 340px;
+        height: 102px;
+    }
+}
+
+.section5-home .section5-home__pagination {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+    margin: 48px 0px 72px 0px;
+}
+
+.section5-home .section5-home__numbers1 {
+    text-decoration: none;
+    color: $eggplant;
+}
+
+.section5-home .section5-home__numbers {
+    text-decoration: none;
+    color: $blueberry-cream;
+}
+
+.section5-home .section5-home__next {
+    text-decoration: none;
+    color: $eggplant;
+}
