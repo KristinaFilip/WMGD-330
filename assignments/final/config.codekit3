@@ -9,6 +9,14 @@
   ],
   "creatorBuild" : "34335",
   "files" : {
+    "\/deploy\/about.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/about.html",
+      "oF" : 0
+    },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -20,6 +28,58 @@
       "oAP" : "\/deploy\/css\/styles-min.css",
       "oF" : 0,
       "pg" : 0
+    },
+    "\/deploy\/img\/aboutpage\/peep-10.jpg" : {
+      "ft" : 16384,
+      "iS" : 23980,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/aboutpage\/peep-10.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/aboutpage\/peep-101.jpg" : {
+      "ft" : 16384,
+      "iS" : 21141,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/aboutpage\/peep-101.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/aboutpage\/plus.jpg" : {
+      "ft" : 16384,
+      "iS" : 1030,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/aboutpage\/plus.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/aboutpage\/Toolbar.png" : {
+      "ft" : 32768,
+      "iS" : 3099,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/aboutpage\/Toolbar.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/deploy\/img\/favicon.ico" : {
       "cB" : 0,
@@ -464,6 +524,14 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/dev\/about.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/about.html",
+      "oF" : 2
+    },
     "\/dev\/components\/footer.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -471,6 +539,14 @@
       "oA" : 1,
       "oAP" : "\/dev\/components\/footer.html",
       "oF" : 1
+    },
+    "\/dev\/components\/head.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/head.html",
+      "oF" : 0
     },
     "\/dev\/components\/header.kit" : {
       "cB" : 0,
@@ -487,6 +563,14 @@
       "oA" : 1,
       "oAP" : "\/dev\/components\/hero.html",
       "oF" : 1
+    },
+    "\/dev\/components\/section1-about.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/section1-about.html",
+      "oF" : 0
     },
     "\/dev\/components\/section1-home.kit" : {
       "cB" : 0,
@@ -693,6 +777,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_navigation.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_section1-about.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_section1-about.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,

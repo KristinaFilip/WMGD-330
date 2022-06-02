@@ -323,6 +323,7 @@ body {
   font-size: 16px; }
 
 h1, h2, h3, h4, h5, h6 {
+  font-family: 'Open Sans', sans-serif;
   margin: 0;
   padding: 0; }
 
@@ -384,6 +385,7 @@ h1, h2, h3, h4, h5, h6 {
 .header .header__craigslist {
   color: #EBEBEB;
   font-size: 48px;
+  text-decoration: none;
   font-weight: 400; }
   @media (max-width: 768px) {
     .header .header__craigslist {
@@ -1623,6 +1625,89 @@ h1, h2, h3, h4, h5, h6 {
     .section7-home .section7-home__newmark {
       width: 340px;
       height: 102px; } }
+.section1-about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: left;
+  padding: 72px 16px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px; }
+  @media (min-width: 992px) {
+    .section1-about {
+      padding: 72px 121px; } }
+  @media (min-width: 992px) {
+    .section1-about {
+      padding: 72px 135px; } }
+.section1-about .section1-about__about {
+  color: #2E2885;
+  margin-bottom: 48px; }
+
+.section1-about .section1-about__biographies {
+  color: #2E2885;
+  font-weight: 400;
+  line-height: 24px; }
+
+.section1-about .section1-about__group1 {
+  display: flex;
+  flex-direction: column; }
+  @media (min-width: 768px) {
+    .section1-about .section1-about__group1 {
+      flex-direction: row;
+      align-items: center; } }
+.section1-about .section1-about__jim {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  padding: 0px 48px 0px 48px; }
+
+.section1-about .section1-about__group2 {
+  display: flex;
+  flex-direction: column; }
+  @media (min-width: 768px) {
+    .section1-about .section1-about__group2 {
+      flex-direction: row;
+      align-items: center; } }
+.section1-about .section1-about__craig {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  padding: 0px 48px 0px 48px; }
+
+.section1-about .section1-about_name1 {
+  font-size: 24px;
+  font-weight: 700px;
+  margin-bottom: 10px; }
+
+.section1-about .section1-about_name2 {
+  font-size: 24px;
+  font-weight: 700px;
+  margin-bottom: 10px; }
+
+.section1-about .section1-about_position1 {
+  margin-bottom: 40px;
+  font-size: 18px; }
+
+.section1-about .section1-about_position2 {
+  margin-bottom: 40px;
+  font-size: 18px; }
+
+.section1-about .section1-about__portrait1 {
+  width: 157px;
+  height: 211px; }
+
+.section1-about .section1-about__portrait2 {
+  width: 157px;
+  height: 211px; }
+
+.section1-about .section1-about_description {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px; }
+
 .footer {
   background-color: #333333;
   height: 116px;
