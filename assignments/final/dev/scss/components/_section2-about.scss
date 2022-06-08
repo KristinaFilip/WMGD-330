@@ -1,0 +1,176 @@
+.section2-about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 16px 0px 16px;
+
+    @include lg-min {
+        padding: 0px 135px 0px 135px;
+    }
+
+    @include lg-min {
+        padding: 0px 121px 0px 121px;
+    }
+}
+
+.section2-about .section2-about__heading {
+    font-weight: 700;
+    line-height: 40px;
+    text-align: center;
+    color: $eggplant;
+    margin-bottom: 48px;
+}
+
+.section2-about .section2-about__search {
+    background: transparent;
+    border: transparent;
+}
+
+.section2-about .section2-about__searchbar {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: 40px;
+    background: $white;
+    border: 2px solid $eggplant;
+    border-radius: 32px;
+    justify-content: flex-start;
+    flex-grow: 1;
+    margin-bottom: 48px;
+}
+
+.section2-about .section2-about__searchfield {
+    width: 100%;
+    color: $blueberry-cream;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    background: transparent;
+    border: transparent;
+    padding: 8px 0px 8px 16px;
+    flex-grow: 1;
+}
+
+.section2-about .section2-about__subheading {
+    color: $eggplant;
+    margin-bottom: 48px;
+}
+
+.section2-about .section2-about__list {
+    display: block;
+    color: $eggplant;
+}
+
+.section2-about .section2-about__point1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid $eggplant;
+    border-radius: 32px 32px 0px 0px;
+    padding: 18px 32px 18px 48px;
+    margin: 0px;
+}
+
+.section2-about .section2-about__point2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid $eggplant;
+    border-top: transparent;
+    padding: 18px 32px 18px 48px;
+    margin: 0px;
+}
+
+.section2-about .section2-about__point3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid $eggplant;
+    border-top: transparent;
+    padding: 18px 32px 18px 48px;
+    margin: 0px;
+}
+
+.section2-about .section2-about__point4 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid $eggplant;
+    border-top: transparent;
+    padding: 18px 32px 18px 48px;
+    margin: 0px;
+}
+
+.section2-about .section2-about__point5 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid $eggplant;
+    border-top: transparent;
+    border-radius: 0px 0px 32px 32px;
+    padding: 18px 32px 18px 48px;
+    margin: 0px;
+}
+
+.section2-about .section2-about__bullet {
+    padding-right: 32px;
+}
+
+.section2-about .section2-about__block {
+    display: inline-block;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    background-color: $light-lavendar;
+    border-radius: 32px;
+    padding: 20px;
+    color: $eggplant;
+    line-height: 24px;
+    align-items: center;
+    margin-top: 48px;
+
+    @include lg-min {
+        flex-direction: row;
+        margin-left: 118px;
+        margin-right: 118px;
+    }
+
+    @include xl-min {
+        flex-direction: row;
+        margin-left: 106px;
+        margin-right: 106px;
+    }
+}
+
+.section2-about .section2-about__body {
+    margin-bottom: 16px;
+    margin-top: 0px;
+}
+
+.section2-about .section2-about__cta {
+    display: block;
+    background-color: $purple-passion;
+    width: 261.22px;
+    height: 42px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: $white;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 600;
+    column-gap: 32.5px;
+
+    @include md-min {
+        width: 246.28px;
+        height: 42px;
+    }
+
+    @include lg-min {
+        width: 246.28px;
+        height: 42px;
+    }
+}
