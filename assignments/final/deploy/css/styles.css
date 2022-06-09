@@ -1965,6 +1965,9 @@ h1, h2, h3, h4, h5, h6 {
     .section2-about .section2-about__cta {
       width: 246.28px;
       height: 42px; } }
+.section2-about .section2-about__bullet2 {
+  list-style-type: none; }
+
 .section3-about {
   display: flex;
   flex-direction: column;
