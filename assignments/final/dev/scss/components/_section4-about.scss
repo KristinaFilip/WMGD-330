@@ -1,0 +1,226 @@
+.section4-about {
+    display: flex;
+    flex-direction: column;
+    padding: 0px 16px 0px 16px;
+
+    @include lg-min {
+        padding: 0px 135px 0px 135px;
+    }
+
+    @include lg-min {
+        padding: 0px 121px 0px 121px;
+    }
+}
+
+.section4-about .section4-about__headings {
+    color: $eggplant;
+    text-align: center;
+}
+
+.section4-about .section4-about__main {
+    margin-bottom: 48px;
+}
+
+.section4-about .section4-about__sub {
+    margin-bottom: 48px;
+}
+
+.section4-about .section4-about__bodytext {
+    line-height: 32px;
+    color: $eggplant;
+    margin-bottom: 48px;
+    margin-top: 0px;
+}
+
+.section4-about .section4-about__info {
+    color: $eggplant;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 8px;
+}
+
+.section4-about .section4-about__inputs {
+    flex-grow: 1;
+    width: 100%;
+    height: 40px;
+    padding-bottom: 230px;
+    margin-bottom: 48px;
+    justify-content: center;
+
+    @include md-min {
+        display: flex;
+        flex-direction: row;
+        gap: 16px;
+        padding-bottom: 48px;
+        flex-grow: 1;
+    }
+}
+
+.section4-about .section4-about__input1 {
+    border: 2px solid $eggplant;
+    border-radius: 32px;
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+
+    @include md-min {
+        width: 189px;
+    }
+
+    @include lg-min {
+        width: 194px;
+    }
+
+    @include xl-min {
+        width: 222px;
+    }
+}
+
+.section4-about .section4-about__inputfield1 {
+    background: transparent;
+    border: transparent;
+    padding: 8px 0px 8px 16px;
+    color: $blueberry-cream;
+}
+
+.section4-about .section4-about__input2 {
+    border: 2px solid $eggplant;
+    border-radius: 32px;
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+
+    @include md-min {
+        width: 189px;
+    }
+
+    @include lg-min {
+        width: 194px;
+    }
+
+    @include xl-min {
+        width: 222px;
+    }
+}
+
+.section4-about .section4-about__inputfield2 {
+    background: transparent;
+    border: transparent;
+    padding: 8px 0px 8px 16px;
+    color: $blueberry-cream;
+}
+
+.section4-about .section4-about__input3 {
+    border: 2px solid $eggplant;
+    border-radius: 32px;
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+
+    @include md-min {
+        width: 393px;
+    }
+
+    @include lg-min {
+        width: 404px;
+    }
+
+    @include xl-min {
+        width: 458px;
+    }
+}
+
+.section4-about .section4-about__inputfield3 {
+    background: transparent;
+    border: transparent;
+    padding: 8px 0px 8px 16px;
+    color: $blueberry-cream;
+}
+
+.section4-about .section4-about__textbox {
+    border: 2px solid $eggplant;
+    border-radius: 32px;
+    flex-grow: 1;
+    flex-grow: 1;
+    width: 100%;
+    height: 291px;
+
+    @include lg-min {
+        width: auto;
+        margin-left: 106px;
+        margin-right: 106px;
+    }
+
+    @include xl-min {
+        margin-left: 118px;
+        margin-right: 118px;
+    }
+}
+
+.section4-about .section4-about__box {
+    color: $blueberry-cream;
+
+}
+
+.section4-about .section4-about__textfield {
+    width: 100%;
+    height: 246px;
+    color: $blueberry-cream;
+    padding: 24px;
+    border: transparent;
+    background: transparent;
+
+}
+
+.section4-about .section4-about__button {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.section4-about .section4-about__cta {
+    display: block;
+    background-color: $purple-poke;
+    color: $white;
+    border-radius: 40px;
+    margin-top: 16px;
+    width: 171px;
+    height: 42px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    @include md-min {
+        width: 188px;
+    }
+
+    @include lg-min {
+        width: 221.09px;
+        margin-left: 118px;
+        margin-right: 118px;
+    }
+
+    @include xl-min {
+        width: 196px;
+        margin-left: 106px;
+        margin-right: 106px;
+    }
+}
+
+.section4-about .section4-about__icons {
+    padding-left: 8px;
+    display: flex;
+    gap: 16px;
+}
+
+.section4-about .section4-about__smbuttons {
+    background: transparent;
+    border: transparent;
+    padding: 2px;
+    @include md-min {
+        padding: 4px;
+    }
+}

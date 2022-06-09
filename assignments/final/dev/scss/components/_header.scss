@@ -4,6 +4,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    align-content: center;
 
     @include md-min {
         padding: 8px 32px 8px 32px;
@@ -11,9 +12,9 @@
 }
 
 .header .header__left {
-    display: inline-flex;
-    gap: 80px;
+    display: flex;
     align-items: center;
+    gap: 80px;
     padding-right: 80px;
 }
 
@@ -61,6 +62,8 @@
 }
 
 .header .header__logo {
+    display: flex;
+
     @include md-min {
         display: none;
     }
@@ -71,6 +74,7 @@
     font-size: 48px;
     text-decoration: none;
     font-weight: 400;
+    display: flex;
 
     @include md-max {
         display: none;
